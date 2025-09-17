@@ -1,0 +1,24 @@
+//small javascript program-Tomato rice Recipe
+
+const Recipe={
+    name:"Tomato Rice",
+    ingredients:[
+        "2 cup cooked rice",
+        "2 tbsp oil",
+        "1 onion (sliced)",
+        "2 Tomatoes (chopped)",
+        "2 green chilies",
+        "1/2 tsp turmeric powder",
+        "1 tsp ginger- garlic past",
+        "1 tsp chilli powder",
+        "salt to needed",
+    ],
+
+
+
+};
+console.log("Recipe:",Recipe.name);
+console.log("ingredients");
+Recipe.ingredients.forEach((item,i)=>
+console.log($,{9 :1}.$,{item}));
+console.log("instructions:",Recipe.instructions);
